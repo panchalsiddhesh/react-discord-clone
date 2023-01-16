@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-discord-clone/static/css/main.d340df32.css",
+    "main.js": "/react-discord-clone/static/js/main.8fc29015.js",
+    "static/js/787.15c61152.chunk.js": "/react-discord-clone/static/js/787.15c61152.chunk.js",
+    "index.html": "/react-discord-clone/index.html",
+    "main.d340df32.css.map": "/react-discord-clone/static/css/main.d340df32.css.map",
+    "main.8fc29015.js.map": "/react-discord-clone/static/js/main.8fc29015.js.map",
+    "787.15c61152.chunk.js.map": "/react-discord-clone/static/js/787.15c61152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d340df32.css",
+    "static/js/main.8fc29015.js"
+  ]
+}
