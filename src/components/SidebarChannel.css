@@ -1,0 +1,28 @@
+.sidebarChannel:hover{
+    color: white;
+    background-color: #40464b;
+}
+
+.sidebarChannel {
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2f3135;
+    color: gray;
+    cursor: pointer;
+}
+
+.sidebarChannel > h4 {
+    display: flex;
+    align-items: center;
+}
+
+.sidebarChannel > .MuiSvgIcon-root {
+    padding: 10px;
+}
+
+.sidebarChannel__hash {
+    font-size: 30px;
+    padding: 8px;
+}
